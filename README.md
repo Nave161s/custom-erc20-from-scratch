@@ -22,3 +22,4 @@ The test suite covers edge cases including:
 Run tests:
 ```bash
 forge test# custom-erc20-from-scratch
+# custom-erc20-from-scratch
